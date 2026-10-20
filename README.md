@@ -30,6 +30,9 @@ It works, it exports clean PNG and SVG files, and it saves documents in its own 
 - **Revert to Text:** Right-click any vectorized glyph/word to convert it back into regular editable text.
 - **Export:** High-resolution PNG and lossless vector SVG.
 
+- <img width="692" height="388" alt="Ekran Kaydı 2026-10-20 04-01-55" src="https://github.com/user-attachments/assets/bcfc36a0-7440-4a44-8ff4-bd11555ed542" />
+
+
 ---
 
 ### Contributing
